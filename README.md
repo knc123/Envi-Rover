@@ -9,6 +9,16 @@ It integrates [ESP32](https://www.espressif.com/en/products/socs/esp32) with var
 
 ---
 
+## How it Works:
+
+- The rover continuously collects data from sensors and transmits it via LoRa to the controller.
+- Users can send movement commands (`W`, `A`, `S`, `D`) to the rover, and `X` stops it.
+- Ultrasonic sensor with servo rotates automatically to detect obstacles and avoid collisions.
+- Blynk integration allows users to view real-time data on mobile or PC dashboards.
+- Data can be accessed anytime, enabling remote monitoring even in inaccessible locations.
+
+---
+
 ## Features:
 
 - **Remote Control:** Move the rover using `W`, `A`, `S`, `D` keys; `X` to stop.
@@ -17,18 +27,6 @@ It integrates [ESP32](https://www.espressif.com/en/products/socs/esp32) with var
 - **Obstacle Detection:** Ultrasonic sensor with servo rotation detects and avoids obstacles automatically.
 - **Blynk Integration:** Live data is displayed on mobile or PC dashboards.
 - **Deployment Ready:** Suitable for agriculture, disaster zones, industrial environments, and scientific research.
-
----
-
-## Idea / Prototype:
-
-- LoRa-based, long-range robotic system for environmental monitoring.
-- Uses [ESP32 microcontroller](https://www.espressif.com/en/products/socs/esp32) with sensors:
-  - DHT22 (Temperature & Humidity)
-  - MQ135 (Gas Detection)
-  - LDR (Illumination)
-- Real-time LoRa communication enables control and monitoring in hazardous or inaccessible areas.
-- Rover can be deployed in agriculture fields, disaster zones, industrial environments, and scientific research sites.
 
 ---
 
@@ -67,16 +65,6 @@ It integrates [ESP32](https://www.espressif.com/en/products/socs/esp32) with var
 - Sensor Libraries (DHT22, MQ135, LDR)
 - Blynk for real-time data visualization
 - System & display code for rover control
-
----
-
-## How it Works:
-
-- The rover continuously collects data from sensors and transmits it via LoRa to the controller.
-- Users can send movement commands (`W`, `A`, `S`, `D`) to the rover, and `X` stops it.
-- Ultrasonic sensor with servo rotates automatically to detect obstacles and avoid collisions.
-- Blynk integration allows users to view real-time data on mobile or PC dashboards.
-- Data can be accessed anytime, enabling remote monitoring even in inaccessible locations.
 
 ---
 
