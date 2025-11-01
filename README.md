@@ -1,8 +1,6 @@
 # Envi-Rover
 
-<p align="center">
-  <img src="Images/rover.jpg" alt="Envi-Rover Screenshot" width="600"/>
-</p>
+![Envi-Rover Screenshot](Images/rover.jpg)
 
 ## Description:
 The **Envi-Rover** is a LoRa-based, long-range, remotely operated robotic system designed to monitor environmental parameters and detect obstacles in hazardous or inaccessible areas. The rover is controlled using `W`, `A`, `S`, `D` keys for movement and `X` to stop. Data from the rover is continuously received at the controller, allowing for real-time monitoring and control.
@@ -11,7 +9,7 @@ It integrates [ESP32](https://www.espressif.com/en/products/socs/esp32) with var
 
 🎥 **Rover in Action:**  
 <p align="center">
-  <img src="Images/ani.gif" alt="Envi-Rover Demo" width="500"/>
+  <img src="Images/ani.gif" alt="Envi-Rover Demo" width="350"/>
 </p>
 
 ---
