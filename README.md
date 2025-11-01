@@ -8,7 +8,6 @@ The **Envi-Rover** is a LoRa-based, long-range, remotely operated robotic system
 It integrates [ESP32](https://www.espressif.com/en/products/socs/esp32) with various sensors (temperature, humidity, illumination, and gas detection) and a LoRa communication module to transmit data over long distances. Users can access the data via [Blynk](https://blynk.io/) on mobile or PC.
 
 🎥 **Rover in Action:**  
-*(You can replace this sample GIF with yours)*  
 ![Envi-Rover Demo](Images/ani.gif)
 
 ---
@@ -37,9 +36,7 @@ It integrates [ESP32](https://www.espressif.com/en/products/socs/esp32) with var
 ## 🧭 System Flowchart
 
 Below is the system flow for **data transmission and control** between the **Rover** and **Controller**.
-
-*(Insert your flowchart image here)*  
-Example:  
+  
 ![Envi-Rover Flowchart](Images/flow_chart.png)
 
 ---
@@ -55,14 +52,14 @@ A collection of Images showcasing the **Envi-Rover**, **Blynk Dashboard**, and *
 ---
 
 ### 🌐 Blynk Dashboard (Web)
-![Blynk Web Dashboard](Images/blynk_desktop.png)  
+![Blynk Web Dashboard](Images/blynk_desktop.jpg)  
 *Blynk web dashboard showing real-time sensor data visualization.*
 
 ---
 
 ### 📱 Blynk Dashboard (Mobile)
-![Blynk Mobile 1](Images/blynk_mobile1.png)
-![Blynk Mobile 2](Images/blynk_mobile2.png)  
+![Blynk Mobile 1](Images/blynk_mobile1.jpg)
+![Blynk Mobile 2](Images/blynk_mobile2.jpg)  
 *Blynk mobile app screenshots displaying live readings.*
 
 ---
